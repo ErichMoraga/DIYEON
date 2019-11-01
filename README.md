@@ -20,7 +20,9 @@ What you need
 
 16 *  Neodymium magnet 6mm OD 3mm Thick
 
-1  *  Glue.
+1  *  Glue
+
+1  * 10P Probe Connector Spring Thimble Charging Spring Needle Conductive Connector Electronic Shock M885/10P
 
 Soldering iron (soldering flux makes soldering so much easier :) )
 
