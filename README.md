@@ -6,7 +6,7 @@ What you need
 
 2 *   40x40x7mm7mm 5v fan
 
-1 *    108mm x 60mm x 10mm aluminium heat sink
+1 *    150mm x 60mm x 5mm aluminium heat sink
 
 1 *   Thermal Paste
 
