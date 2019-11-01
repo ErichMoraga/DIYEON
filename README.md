@@ -18,9 +18,7 @@ What you need
 
 1 *   USB Type C Cable, 180 Degree Right Angle
 
-1 *   Magnetic USB C Adapter, HOGORE 20Pins MagSafe
-
-8 *  Neodymium magnet 20mm OD 3mm Thick
+8 *  Neodymium magnet 6mm OD 3mm Thick
 
 1 *  Glue.
 
