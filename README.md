@@ -29,4 +29,4 @@ Soldering iron (soldering flux makes soldering so much easier :) )
 Note:
 
 Parts could be found on Amazon, ebay and robotshop
-Back Piece and Pic of Finished Project will be added soon
+Pic of Finished Project will be added soon
